@@ -18,10 +18,7 @@
     "eject": "react-scripts eject"
   },
   "repository": {
-
     "type": "git",
-
-    "url": "https://github.com/heroku/node-js-sample"
-
+    "url": "https://github.com/aherka/react-test"
   }
 }
